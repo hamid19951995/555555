@@ -36,5 +36,6 @@
   "explorer.decorations.badges": true,
   "explorer.decorations.colors": false,
   "workbench.iconTheme": "vs-minimal",
-  "cursor.experimental.agentUi": "disabled"
+  "cursor.experimental.agentUi": "disabled",
+  "gitdoc.enabled": true
 }
